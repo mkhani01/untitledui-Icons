@@ -4,7 +4,7 @@ This package contains a collection of font icons generated using Icomoon. These 
 
 ## Installation
 
-1. Download the package from the following link: [untitledui-Icons.zip](path/to/untitledui-Icons.zip)
+1. Download the package from the following link: [untitledui-Icons.zip](https://github.com/mkhani01/untitledui-Icons/archive/refs/heads/master.zip)
 
 2. Extract the downloaded ZIP file to a location of your choice.
 
